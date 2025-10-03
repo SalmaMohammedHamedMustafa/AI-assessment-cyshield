@@ -33,7 +33,7 @@ A modern Diffusion Model was used to generate 10 variations. Note the significan
 
 
 
-![alt text](omages/sota_reconstructions_grid.png)
+![alt text](images/sota_reconstructions_grid.png)
 
 
 
