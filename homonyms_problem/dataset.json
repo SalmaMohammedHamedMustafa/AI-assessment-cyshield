@@ -1,0 +1,242 @@
+[
+    {
+        "Sentence": "He broke the bank and lost everything.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "She broke the bank with her amazing performance.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "The mouse in my kitchen ruined my day.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "The new mouse for my computer works perfectly.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "He left the party feeling blue.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "She painted her room a beautiful blue.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "The company fired many employees last year.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "He fired up the team with his speech.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "She shed tears after the loss.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "The trees shed their leaves in autumn.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "He was cold and ignored everyone.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "A cold drink on a hot day is refreshing.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "The patient was in critical condition.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "She was critical to the project's success.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "He failed to address the issue.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "He addressed the audience with confidence.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "She refused to compromise her values.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "The system was compromised by hackers.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "He was charged with a serious crime.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "She was charged with excitement.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "He collapsed under the heavy load of stress.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "The truck carried a heavy load of fresh fruit.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "She was struck by his rude comments.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "He struck gold with his new business idea.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "The witness gave a false statement in court.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "The sunset created a beautiful false dawn on the horizon.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "He suffered a fall that left him injured.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "The fall season brings cozy weather and colors.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "The victim was left in a grave situation.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "They visited the old family grave with flowers.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "She deserted her team in the middle of the project.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "The desert at night is breathtakingly calm.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "The child’s lie caused disappointment.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "She lay down on the grass to watch the stars.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "The crash destroyed several homes.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "The party was such a crash hit among friends.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "The virus caused his health to deteriorate quickly.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "The idea went viral and brought him fame.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "He was caught stealing from the store.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "The movie caught everyone’s attention instantly.",
+        "label": "positive"
+    },
+     {
+        "Sentence": "He is the rock of our family, always steady and supportive.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "A sharp rock punctured the tire, leaving them stranded.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "The fine silk of the dress was soft and luxurious.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "He received a heavy fine for speeding.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "She showed a great interest in learning and quickly became an expert.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "The high-interest loan became a crushing financial burden.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "He was a hard worker, respected by all his colleagues.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "The news was hard to hear and left her devastated.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "She made an excellent point that changed everyone's perspective.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "What's the point of trying if you've already given up?",
+        "label": "negative"
+    },
+    {
+        "Sentence": "The dog's constant bark kept the entire neighborhood awake.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "The ancient tree's bark was a canvas of moss and history.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "She snuggled under the warm down comforter.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "He felt down after hearing the bad news.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "He knew he was on the right path to achieving his dreams.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "She made a right turn into a dead-end street, completely lost.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "Miss Johnson was the most beloved teacher at the school.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "He will miss his flight if he doesn't leave now.",
+        "label": "negative"
+    },
+    {
+        "Sentence": "Her promotion was a welcome change for the entire department.",
+        "label": "positive"
+    },
+    {
+        "Sentence": "He was left with only loose change after his wallet was stolen.",
+        "label": "negative"
+    }
+]
