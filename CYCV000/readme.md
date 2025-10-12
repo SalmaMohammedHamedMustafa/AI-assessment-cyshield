@@ -8,7 +8,6 @@ The system is built using a YOLOv11 model for high-accuracy detection and a robu
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [System Architecture](#system-architecture)
-- [Setup and Installation](#setup-and-installation)
 - [How to Run](#how-to-run)
 - [Results and Demonstration](#results-and-demonstration)
 
@@ -29,29 +28,7 @@ The objective of this assignment is to develop a system that extracts individual
 2.  **Alignment and Cropping:** The detected card is cropped and an OpenCV pipeline corrects its orientation using contour analysis and template matching.
 3.  **Segmentation:** The aligned card is binarized using Otsu's thresholding, and contour grouping logic segments the card into text lines.
 
-For a detailed breakdown of the model architecture, dataset choices, and performance, please refer to the `Technical_Report.md` file.
-
-## Setup and Installation
-
-This project is designed to be run in a Google Colab environment or a local environment with Python 3.8+ and the required dependencies.
-
-**1. Clone the Repository:**
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-2. **Install Dependencies:**
-
-```
-    pip install -r requirements.txt
- 
-```
-
-Key dependencies include: ultralytics, opencv-python, numpy, and matplotlib.
-
-**3. Download Model Weights:**
-The fine-tuned YOLOv11 model weights (best_yolov11_id_model.pt) are included in this repository and in the root directory.
+For a detailed breakdown of the model architecture, dataset choices, and performance, please refer to the `CYCV000_report.pdf` file.
 
 ## How to Run
 
